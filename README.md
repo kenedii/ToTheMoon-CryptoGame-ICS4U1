@@ -1,7 +1,7 @@
 # ToTheMoon-CryptoGame
 A java text based crypto simulation game made for my ICS4U1 culminating assignment 2022. Run the 'ToTheMoon.java' file
 
-ToTheMoon class
+**ToTheMoon class**
 
 Contains the main method
 
@@ -9,7 +9,7 @@ Creates the objects needed for the game
 
 Asks the user what they would like to do during their turn
 
-AssetPrices class
+**AssetPrices class**
 
 Generates the prices for each asset in the beginning of the game
 
@@ -20,7 +20,7 @@ Returns the value of each asset to the main method
 Creates a chart to model the in-game price of an asset
 
 
-PlayerAssets class
+**PlayerAssets class**
 
 Contains info about how much money the player has, and how much of each asset they have
 
