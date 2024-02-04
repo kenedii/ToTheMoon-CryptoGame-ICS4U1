@@ -1,5 +1,5 @@
 # ToTheMoon-CryptoGame
-A java text based crypto simulation game made for my ICS4U1 culminating assignment 2022. Run the 'ToTheMoon.java' file
+A java text based crypto simulation game using statistics made for my ICS4U1 culminating assignment 2022. Run the 'ToTheMoon.java' file
 
 **ToTheMoon class**
 
