@@ -1,5 +1,6 @@
 # ToTheMoon-CryptoGame
 A java text based crypto simulation game using statistics made for my ICS4U1 culminating assignment 2022. Run the 'ToTheMoon.java' file
+Dependencies: hsa.Console (Ready To Program Java IDE)
 
 **ToTheMoon class**
 
