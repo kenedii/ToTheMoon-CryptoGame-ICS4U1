@@ -38,3 +38,7 @@ Flaws With This Way of Generating Prices:
 	-“Past performance is not indicative of future results”
 	-Randomness can cause the asset to become worthless or hyperinflated
 	-Predictable/Deterministic (follows normal distribution in the long term)
+
+![demo](https://i.imgur.com/D297Y2u.png)
+![demo](https://i.imgur.com/mr0gHq1.png)
+![demo](https://i.imgur.com/i8Obf58.png)
